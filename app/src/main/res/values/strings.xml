@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NewsReader</string>
+    <string name="error">Something went wrong. Try again.</string>
+    <string name="projects">News</string>
+    <string name="content_description">Image</string>
+    <string name="separator">by</string>
+    <string name="content_description_details">Image Detail</string>
+</resources>
